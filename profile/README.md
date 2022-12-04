@@ -1,8 +1,8 @@
 # Okiba
 
-A WIP simple, minimal pastebin and URL shortener written in typescript.
+A simple and minimal pastebin + URL shortener written in typescript.
 
-## Todo
+## Plans
 - [x] Basic server and web app 
 - [ ] Dynamic syntax highlighting
 - [ ] URL Shortener
